@@ -1,0 +1,4 @@
+Now
+Dark is admitted into this project.
+The next task is reading the book OpenCV, and learn QT tool box instructions.
+It may cost some time.

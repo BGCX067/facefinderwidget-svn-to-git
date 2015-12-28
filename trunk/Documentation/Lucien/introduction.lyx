@@ -1,0 +1,136 @@
+#LyX 1.6.4.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2cm
+\topmargin 1.5cm
+\rightmargin 2cm
+\bottommargin 1.5cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Face Finder Widget
+\end_layout
+
+\begin_layout Author
+Lucien ZHU, Dark ZHENG, Buffalo XIE
+\end_layout
+
+\begin_layout Date
+04/11/10
+\end_layout
+
+\begin_layout Address
+Peking University
+\end_layout
+
+\begin_layout Part
+Introduction
+\end_layout
+
+\begin_layout Standard
+The project is created because of a WS purpose for its initiator Lucien
+ Zhu, a senior undergraduate who is fond of knowing every PPMM in campus.
+ Dark and Buffalo are two nice guy showing great help to Lucien.
+\end_layout
+
+\begin_layout Part
+Overview
+\end_layout
+
+\begin_layout Standard
+The widget is to find similar faces in a database to assist users to get
+ information of target easier.
+\end_layout
+
+\begin_layout Itemize
+Input: a series images of a PPMM.
+\end_layout
+
+\begin_layout Itemize
+Ouput: a list of possible PPMM candidates from a SNS website, e.g.
+ 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+renren.com
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+So far, the project are described in 3 parts ( See Fig.1): 
+\end_layout
+
+\begin_layout Itemize
+Interface.
+\end_layout
+
+\begin_layout Itemize
+Face Detection and Matching.
+\end_layout
+
+\begin_layout Itemize
+Database Management.
+\end_layout
+
+\begin_layout Part
+Interface
+\end_layout
+
+\begin_layout Part
+Face Detection and Matching
+\end_layout
+
+\begin_layout Part
+Database From SNS
+\end_layout
+
+\end_body
+\end_document
